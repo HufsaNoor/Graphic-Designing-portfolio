@@ -4,16 +4,7 @@
     gap: 1rem
     
 }
-.about__content {
-    display: flex;
-    flex-direction: column;
-    gap: 0.5rem;
-    padding-left: 6em;
 
-}
-.about__image-wrapper {
-    width: 500px;
-    height: 500px;}
 
 .about__title {
     font-size: var(--size-2xl);
@@ -43,9 +34,9 @@
 .about__ul {
     display: flex;
     flex-direction: column;
-    gap: 0.5em;
+    gap: 1em;
     list-style-type: '\2023';
-    padding-left: 0.5em;
+    padding-left: 1em;
     flex: 1;
 
 }
@@ -94,7 +85,8 @@
 
     }
     .about_image {
-        width: 28.6875;
+        
+        width: 28.6875rem;
     }
 }
 
