@@ -41,7 +41,7 @@ html {
     --clr-slate400: #1e293b;
     --clr-slate600: #1e293b;
     --clr-slate800: #1e293b;
-;
+
 }
 
 body {
@@ -57,7 +57,7 @@ canvas,
 svg {
     display: block;
     max-width: 100%;
-    user-select: none;
+    /* user-select: none; */
 }
 button {
     display: inline-block;
