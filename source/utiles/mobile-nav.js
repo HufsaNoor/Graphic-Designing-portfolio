@@ -29,7 +29,7 @@ mobilelinks.forEach(link => {
         document.body.style.overflow='auto';
     });
 });
-};
+};  
 
 
 export default mobileNav;
